@@ -30,3 +30,30 @@
 
 ### 📝 글쓰기
 > [우테코 한 달 생활기](https://github.com/ParkDooWon/woowa-writing-2/blob/doogang/README.md)
+
+<br/>
+
+## 💻 Lv. 2 : 웹 프로그래밍
+### 학습 목표
+- Spring 프레임워크 기반으로 웹 애플리케이션을 개발하는 경험을 한다.
+- TDD, ATDD 기반으로 웹 애플리케이션을 개발하고 리팩토링하는 경험을 한다.
+- 구현한 프로그램을 서버에 배포하는 경험을 한다.
+- 팀 프로젝트를 통해 팀원들간의 소통, 협업, 회고 경험을 한다.
+
+### 진행한 미션
+|no|미션|저장소|코드 리뷰|
+|---|---|---|---|
+|1|체스 웹 (1단계)| [jwp-chess/step1](https://github.com/ParkDooWon/jwp-chess/tree/doogang) | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/7) |
+|2|체스 웹 (2단계)|  [jwp-chess/step2](https://github.com/ParkDooWon/jwp-chess/tree/lv2)  | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/107) |
+|3|체스 웹 (3단계)| [jwp-chess/step3](https://github.com/ParkDooWon/jwp-chess/tree/lv3) | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/154) |
+|3|체스 웹 (4단계)| [jwp-chess/step4](https://github.com/ParkDooWon/jwp-chess/tree/final) | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/212) |
+|4|지하철 정보 관리 - ATDD| [atdd-subway-admin](https://github.com/ParkDooWon/atdd-subway-admin/tree/doowon) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-admin/pull/49) |
+|5|지하철 경로 조회 - TDD| [atdd-subway-path](https://github.com/ParkDooWon/atdd-subway-path/tree/parkdoowon) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-path/pull/12) |
+|6|지하철 즐겨찾기 - API 테스트/문서자동화| [atdd-subway-favorite](https://github.com/ParkDooWon/atdd-subway-favorite/tree/parkdoowon) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-favorite/pull/47) |
+|6|User Story| [userstory](https://github.com/ParkDooWon/woowa-userstory-2020/blob/parkdoowon/README.md) | [코드 리뷰](https://github.com/woowacourse/woowa-userstory-2020/pull/19) |
+<br/>
+
+### 📝 글쓰기
+> [우테코에서 찾은 나만의 효과적인 공부법](https://github.com/ParkDooWon/woowa-writing-2/blob/doogang/level2.md)
+
+<br/>
