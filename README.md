@@ -1,4 +1,4 @@
-# woowacourse-projects
+# 🌟 woowacourse-projects
 <p align="center">
     <img src="./wooteco-cover.jpg" alt="우아한 테크코스 포스터" width="40%" />
 </p>
@@ -25,7 +25,7 @@
 |6|블랙잭 (2단계)| [java-blackjack/step2](https://github.com/ParkDooWon/java-blackjack/tree/doowon) | [코드 리뷰](https://github.com/woowacourse/java-blackjack/pull/98) |
 |7|체스 (1단계)| [java-chess/step1](https://github.com/ParkDooWon/java-chess/tree/doowon) | [코드 리뷰](https://github.com/woowacourse/java-chess/pull/98) |
 |8|체스 (2단계)| [java-chess/step2](https://github.com/ParkDooWon/java-chess/tree/parkdoowon) | [코드 리뷰](https://github.com/woowacourse/java-chess/pull/127) |
-|9|90년생 HTML| [html](https://github.com/ParkDooWon/html) | 리뷰 ❌ |
+|9|90년생 HTML| [html](https://github.com/ParkDooWon/html) | 리뷰 진행 X |
 <br/>
 
 ### 📝 글쓰기
@@ -108,4 +108,16 @@
 ### 📝 글쓰기
 > 진행중..
 
+<br/>
+
+## 📚 기타 활동
+### 📽 테코톡 : 발표를 통해 크루들과 지식 공유하기
+> [두강의 Generics](https://www.youtube.com/watch?v=n28M8iryFPw)
+
+<br/>
+
+### 👨🏻‍💻👩🏻‍💻 팀 내의 기술 블로그에 작성한 글
+- [서브 모듈 적용하기](https://www.notion.so/99e367f982f645daa563add9b512a075)
+- [API 문서화](https://www.notion.so/API-fa8f6b236a0d4f08b79654ddd6db12f2)
+- [Meta tag & OG tag & Google analytics](https://www.notion.so/Meta-tag-OG-tag-Google-analytics-713e9ebee0594500b3aa0298e4e2c98c)
 <br/>
