@@ -46,11 +46,11 @@
 |1|체스 웹 (1단계)| [jwp-chess/step1](https://github.com/ParkDooWon/jwp-chess/tree/doogang) | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/7) |
 |2|체스 웹 (2단계)|  [jwp-chess/step2](https://github.com/ParkDooWon/jwp-chess/tree/lv2)  | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/107) |
 |3|체스 웹 (3단계)| [jwp-chess/step3](https://github.com/ParkDooWon/jwp-chess/tree/lv3) | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/154) |
-|3|체스 웹 (4단계)| [jwp-chess/step4](https://github.com/ParkDooWon/jwp-chess/tree/final) | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/212) |
-|4|지하철 정보 관리 - ATDD| [atdd-subway-admin](https://github.com/ParkDooWon/atdd-subway-admin/tree/doowon) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-admin/pull/49) |
-|5|지하철 경로 조회 - TDD| [atdd-subway-path](https://github.com/ParkDooWon/atdd-subway-path/tree/parkdoowon) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-path/pull/12) |
-|6|지하철 즐겨찾기 - API 테스트/문서자동화| [atdd-subway-favorite](https://github.com/ParkDooWon/atdd-subway-favorite/tree/parkdoowon) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-favorite/pull/47) |
-|6|User Story| [userstory](https://github.com/ParkDooWon/woowa-userstory-2020/blob/parkdoowon/README.md) | [코드 리뷰](https://github.com/woowacourse/woowa-userstory-2020/pull/19) |
+|4|체스 웹 (4단계)| [jwp-chess/step4](https://github.com/ParkDooWon/jwp-chess/tree/final) | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/212) |
+|5|지하철 정보 관리 - ATDD| [atdd-subway-admin](https://github.com/ParkDooWon/atdd-subway-admin/tree/doowon) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-admin/pull/49) |
+|6|지하철 경로 조회 - TDD| [atdd-subway-path](https://github.com/ParkDooWon/atdd-subway-path/tree/parkdoowon) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-path/pull/12) |
+|7|지하철 즐겨찾기 - API 테스트/문서자동화| [atdd-subway-favorite](https://github.com/ParkDooWon/atdd-subway-favorite/tree/parkdoowon) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-favorite/pull/47) |
+|8|User Story| [userstory](https://github.com/ParkDooWon/woowa-userstory-2020/blob/parkdoowon/README.md) | [코드 리뷰](https://github.com/woowacourse/woowa-userstory-2020/pull/19) |
 <br/>
 
 ### 📝 글쓰기
@@ -85,5 +85,27 @@
 
 ### 📝 글쓰기
 > [팀 프로젝트가 나에게 남긴 것](https://github.com/ParkDooWon/woowa-writing-2/blob/doogang/level3.md)
+
+<br/>
+
+## 💻 Lv. 4 : 팀 프로젝트 유지 보수 및 웹 백엔드에 깊이를 더하는 단계
+### 학습 목표
+- 웹 서버를 직접 구현해 HTTP를 이해하고, 서블릿 컨테이너의 동작 원리를 이해한다.
+- JDBC 라이브러리, MVC, DI 프레임워크 구현을 통해 Spring 프레임워크의 동작 원리를 이해한다.
+- 레거시 프로젝트를 리팩토링하는 경험을 한다.
+- 객체지향 설계, 인증 및 보안, WebSocket 경험을 한다.
+- 대용량 서비스를 위한 시스템 아키텍처 설계, 데이터 처리 경험을 한다.
+
+### 진행한 미션
+|no|미션|저장소|코드 리뷰|
+|---|---|---|---|
+|1|HTTP 이해 - 웹 서버 구현 (1단계)| [jwp-was/step1](https://github.com/ParkDooWon/jwp-was/tree/parkdoowon) | [코드 리뷰](https://github.com/woowacourse/jwp-was/pull/114) |
+|2|HTTP 이해 - 웹 서버 구현 (2단계)| 진행중.. | 진행중.. |
+|3|점진적인 리팩토링 (1단계)| 진행중.. | 진행중.. |
+
+<br/>
+
+### 📝 글쓰기
+> 진행중..
 
 <br/>
