@@ -73,9 +73,8 @@
 |6drinkers|칵테일픽| [CocktailPick](https://github.com/woowacourse-teams/2020-6rinkers)|
 
 ### 담당 업무
-- 도메인 설계 (Java, JPA)
+- 도메인 설계(Java, JPA), 배포(Docker, Jenkins) 협업
 - API 문서화 (Spring Rest Docs)
-- 배포 (Docker, Jenkins)
 - 서브 모듈(Submodule) 연결
 - 칵테일 추천 알고리즘
 - 즐겨찾기 기능 구현
