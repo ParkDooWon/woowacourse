@@ -57,3 +57,33 @@
 > [우테코에서 찾은 나만의 효과적인 공부법](https://github.com/ParkDooWon/woowa-writing-2/blob/doogang/level2.md)
 
 <br/>
+
+## 💻 Lv. 3 : 팀 프로젝트
+### 학습 목표
+- 개발 프로세스 기반으로 프로젝트 진행, 협업하는 경험을 한다.
+- 배포를 자동화하고, 피드백을 받아 지속적으로 개선하는 경험을 한다.
+
+### 진행한 프로젝트
+<p align="center">
+    <img src="./cocktailpick.png" alt="칵테일픽" width="40%" />
+</p>
+
+|팀명|프로젝트명|저장소|
+|---|---|---|
+|6drinkers|칵테일픽| [CocktailPick](https://github.com/woowacourse-teams/2020-6rinkers)|
+
+### 담당 업무
+- 도메인 설계 (Java, JPA)
+- API 문서화 (Spring Rest Docs)
+- 배포 (Docker, Jenkins)
+- 서브 모듈(Submodule) 연결
+- 칵테일 추천 알고리즘
+- 즐겨찾기 기능 구현
+- 관리자 페이지 구현
+
+<br/>
+
+### 📝 글쓰기
+> [팀 프로젝트가 나에게 남긴 것](https://github.com/ParkDooWon/woowa-writing-2/blob/doogang/level3.md)
+
+<br/>
