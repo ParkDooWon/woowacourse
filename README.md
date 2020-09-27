@@ -26,7 +26,6 @@
 |7|체스 (1단계)| [java-chess/step1](https://github.com/ParkDooWon/java-chess/tree/doowon) | [코드 리뷰](https://github.com/woowacourse/java-chess/pull/98) |
 |8|체스 (2단계)| [java-chess/step2](https://github.com/ParkDooWon/java-chess/tree/parkdoowon) | [코드 리뷰](https://github.com/woowacourse/java-chess/pull/127) |
 |9|90년생 HTML| [html](https://github.com/ParkDooWon/html) | 리뷰 진행 X |
-<br/>
 
 ### 📝 글쓰기
 > [우테코 한 달 생활기](https://github.com/ParkDooWon/woowa-writing-2/blob/doogang/README.md)
@@ -51,7 +50,6 @@
 |6|지하철 경로 조회 - TDD| [atdd-subway-path](https://github.com/ParkDooWon/atdd-subway-path/tree/parkdoowon) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-path/pull/12) |
 |7|지하철 즐겨찾기 - API 테스트/문서자동화| [atdd-subway-favorite](https://github.com/ParkDooWon/atdd-subway-favorite/tree/parkdoowon) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-favorite/pull/47) |
 |8|User Story| [userstory](https://github.com/ParkDooWon/woowa-userstory-2020/blob/parkdoowon/README.md) | [코드 리뷰](https://github.com/woowacourse/woowa-userstory-2020/pull/19) |
-<br/>
 
 ### 📝 글쓰기
 > [우테코에서 찾은 나만의 효과적인 공부법](https://github.com/ParkDooWon/woowa-writing-2/blob/doogang/level2.md)
@@ -80,8 +78,6 @@
 - 즐겨찾기 기능 구현
 - 관리자 페이지 구현
 
-<br/>
-
 ### 📝 글쓰기
 > [팀 프로젝트가 나에게 남긴 것](https://github.com/ParkDooWon/woowa-writing-2/blob/doogang/level3.md)
 
@@ -101,8 +97,6 @@
 |1|HTTP 이해 - 웹 서버 구현 (1단계)| [jwp-was/step1](https://github.com/ParkDooWon/jwp-was/tree/parkdoowon) | [코드 리뷰](https://github.com/woowacourse/jwp-was/pull/114) |
 |2|HTTP 이해 - 웹 서버 구현 (2단계)| 진행중.. | 진행중.. |
 |3|점진적인 리팩토링 (1단계)| 진행중.. | 진행중.. |
-
-<br/>
 
 ### 📝 글쓰기
 > 진행중..
