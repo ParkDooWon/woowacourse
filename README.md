@@ -64,8 +64,8 @@
 - 배포를 자동화하고, 피드백을 받아 지속적으로 개선하는 경험을 한다.
 
 ### 진행한 프로젝트
-<p align="center">
-    <img src="./cocktailpick.png" alt="칵테일픽" width="40%" />
+<p align="left">
+    <img src="./cocktailpick.png" alt="칵테일픽" width="55%" />
 </p>
 
 |팀명|프로젝트명|저장소|
