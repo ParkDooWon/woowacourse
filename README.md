@@ -113,4 +113,5 @@
 - [서브 모듈 적용하기](https://www.notion.so/99e367f982f645daa563add9b512a075)
 - [API 문서화](https://www.notion.so/API-fa8f6b236a0d4f08b79654ddd6db12f2)
 - [Meta tag & OG tag & Google analytics](https://www.notion.so/Meta-tag-OG-tag-Google-analytics-713e9ebee0594500b3aa0298e4e2c98c)
+- [ETag와 Spring Cache](https://www.notion.so/ETag-Spring-Cache-35927bd1eb084aad8d1af10b5c87e43a)
 <br/>
