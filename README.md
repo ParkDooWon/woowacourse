@@ -74,6 +74,7 @@
 - 도메인 설계(Java, JPA), 배포(Docker, Jenkins) 협업
 - 칵테일 추천 기능 구현
 - 즐겨찾기 기능 구현
+- Spring Cache 적용
 - 칵테일의 Tag에 대한 CRUD 구현 (JPA 사용)
 - 서브 모듈(Submodule) 연결
 - API 문서화 (Spring Rest Docs)
